@@ -16,7 +16,7 @@ Gender VARCHAR(10),
 DeprtmantID INT); 
 
 INSERT INTO Student (StudentID, studentName, Gender ,DepartmentID)
- VALUES (1001,'Arun','male', 101), 
+VALUES (1001,'Arun','male', 101), 
 (1002,'Divya','Female',102),
 (1003,'KARTHICK','male',101);
 SELECT * FROM student;
